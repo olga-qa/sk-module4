@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "os";
+	src: url("../fonts/os.woff2") format("woff2"), url("../fonts/os.woff") format("woff")
+}
+
+@font-face {
+	font-family: "os_bol";
+	src: url("../fonts/os_bol.woff2") format("woff2"), url("../fonts/os_bol.woff") format("woff")
+}
+
+@font-face {
+	font-family: "os_extrabol";
+	src: url("../fonts/os_extrabol.woff2") format("woff2"), url("../fonts/os_extrabol.woff") format("woff")
+}
